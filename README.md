@@ -10,3 +10,5 @@ Kick_20
 Snare_9
 
 SQL8 (http://www.buchty.net/ensoniq/)
+
+Other Synths - https://www.reddit.com/r/theencounter/comments/3k2cut/giant_massive_list_of_synthwave_and_outrun_vsts/
